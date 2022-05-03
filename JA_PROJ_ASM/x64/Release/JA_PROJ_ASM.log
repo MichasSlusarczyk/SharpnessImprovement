@@ -1,0 +1,4 @@
+﻿  Assembling JA_PROJ_ASM.asm...
+     Creating library D:\Michal_Slusarczyk\Studies\JA\Project\JA_PROJ\x64\Release\JA_PROJ_ASM.lib and object D:\Michal_Slusarczyk\Studies\JA\Project\JA_PROJ\x64\Release\JA_PROJ_ASM.exp
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  JA_PROJ_ASM.vcxproj -> D:\Michal_Slusarczyk\Studies\JA\Project\JA_PROJ\x64\Release\JA_PROJ_ASM.dll

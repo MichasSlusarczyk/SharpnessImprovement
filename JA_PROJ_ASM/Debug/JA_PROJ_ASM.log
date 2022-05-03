@@ -1,0 +1,3 @@
+﻿  Assembling JA_PROJ_ASM.asm...
+JA_PROJ_ASM.asm(1): error A2088: END directive required at end of file
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\JA_PROJ_ASM.obj" /W3 /errorReport:prompt  /TaJA_PROJ_ASM.asm" exited with code 1.
