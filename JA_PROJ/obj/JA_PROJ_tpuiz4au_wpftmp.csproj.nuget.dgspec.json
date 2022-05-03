@@ -31,11 +31,7 @@
         "frameworks": {
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
-            "projectReferences": {
-              "D:\\Michal_Slusarczyk\\Studies\\JA\\Project\\JA_PROJ\\JA_PROJ_ASM\\JA_PROJ_ASM.vcxproj": {
-                "projectPath": "D:\\Michal_Slusarczyk\\Studies\\JA\\Project\\JA_PROJ\\JA_PROJ_ASM\\JA_PROJ_ASM.vcxproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -47,12 +43,6 @@
       "frameworks": {
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
-          "dependencies": {
-            "Microsoft.Windows.Compatibility": {
-              "target": "Package",
-              "version": "[6.0.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -73,21 +63,6 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
-      }
-    },
-    "D:\\Michal_Slusarczyk\\Studies\\JA\\Project\\JA_PROJ\\JA_PROJ_ASM\\JA_PROJ_ASM.vcxproj": {
-      "restore": {
-        "projectUniqueName": "D:\\Michal_Slusarczyk\\Studies\\JA\\Project\\JA_PROJ\\JA_PROJ_ASM\\JA_PROJ_ASM.vcxproj",
-        "projectName": "JA_PROJ_ASM",
-        "projectPath": "D:\\Michal_Slusarczyk\\Studies\\JA\\Project\\JA_PROJ\\JA_PROJ_ASM\\JA_PROJ_ASM.vcxproj",
-        "frameworks": {
-          "native": {
-            "projectReferences": {}
-          }
-        }
-      },
-      "frameworks": {
-        "native": {}
       }
     }
   }
