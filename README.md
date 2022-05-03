@@ -1,5 +1,5 @@
 # Sharpness Improvement
-> Project to improve contrast in images using two dlls (Assembler and C ++) and comparing their results.
+> Project for improving contrast in images using two dlls (Assembler and C ++) and comparing their results.
 
 ## Table of Contents
 * [Technologies Used](#technologies-used)
@@ -15,7 +15,7 @@
 
 ## Features
 List the ready features here:
-- posibility for improvement contrast
+- possibility for improvement contrast
 - choosing number of used threads
 - measuring the time of the operation
 
